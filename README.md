@@ -277,7 +277,7 @@ GMP 문서를 작성하지 않고 넘기게 되는 경우(누락)는 언제 자�
 </details>
 <details>
   <summary>기획서</summary>
-[기획안_1조.pdf](https://github.com/user-attachments/files/24130125/_1.pdf)
+[기획안_1조.pdf](./doc/기획안_1조.pdf)
 </details>
 
 
