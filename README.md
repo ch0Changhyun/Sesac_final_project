@@ -277,8 +277,8 @@ GMP 문서를 작성하지 않고 넘기게 되는 경우(누락)는 언제 자�
 </details>
 <details>
   <summary>기획서</summary>
-  <br>
-  <a href="./doc/기획안_1조.pdf">기획안_1조.pdf</a>
+  <!-- <br> -->
+  <!-- <a href="./doc/기획안_1조.pdf">기획안_1조.pdf</a> -->
   
   [기획안_1조.pdf](./doc/기획안_1조.pdf)
 </details>
@@ -447,11 +447,21 @@ data
 ### **최종** :
 <details>
   <summary>PPT(pdf 변환)</summary>
-  [[1조]최종_프로젝트_PPT.pdf](https://github.com/user-attachments/files/24130236/1._._PPT.pdf)
+  
+  [[1조]최종_프로젝트_PPT.pdf](./doc/[1조]최종_프로젝트_PPT.pdf)
 </details>
 <details>
   <summary>최종 보고서(pdf 변환)</summary>
-[프로젝트_보고서_(비전 AI 기반 행동 감지 자동 문서화 시스템 구축).pdf](https://github.com/user-attachments/files/24130240/_._.AI.pdf)
+  
+  <a href="./doc/프로젝트_보고서_(비전 AI 기반 행동 감지 자동 문서화 시스템 구축).pdf">
+  📄 프로젝트 보고서 (Vision AI 기반 행동 감지 자동 문서화 시스템)
+  </a>
+
+</details>
+<details>
+  <summary>최종 시연</summary>
+  
+  🎬 [최종 시연 영상 보기](./doc/최종영상.mp4)
 </details>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
